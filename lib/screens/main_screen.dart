@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../widgets/horz_layout.dart';
-import '../widgets/ver_layout.dart';
+import '../widgets/vert_layout.dart';
 
 class SolveScreen extends StatelessWidget {
   @override
